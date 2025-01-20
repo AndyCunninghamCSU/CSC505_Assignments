@@ -71,12 +71,11 @@ if __name__ == "__main__":
     # First, determine if args has been provided
     if len(sys.argv) > 1:
         # args has been provided, convery the array of strings into an array of ints
-        base_array = list(map(int, sys.argv[1].split()))
+        args = sys.argv[1:]
+        base_array = list(map(int, args))
     else:
         # No args has been given, generate an array of len 5-10 with random ints 0-100
         base_array = [random.randint(0,100) for _ in range(random.randint(5,10))]
-
-    debug(len(base_array))
 
     print(f"Inputted array: {" ".join(map(str, base_array))}")
 
