@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>240</x>
+      <y>0</y>
+      <w>140</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Cunningham Model</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>30</x>
+      <y>60</y>
+      <w>620</w>
+      <h>300</h>
+    </coordinates>
+    <panel_attributes>_Communication and Requirements_
+--
+Overall objective:
+- Successfully transition out of the Navy and establish life in Colorado Springs, CO (CO)
+_Education requirements:_
+- Complete master's degree in AI and ML
+_Timing requirements:_
+- Complete '25-'26 school year in Washington
+- Settle in new house before the 2026 school year
+- Collect first paycheck before first mortgage is due
+_Job requirements:_
+- Lead a small team of engineers developing cutting edge technology that benefits mankind
+- Get hired as a software developer near Colorado Springs, CO
+_Housing requirements:_
+- Short commute to work
+- Short distance from family
+- Short distance to kids schools
+- Fenced in yard for the dogs
+- Sun-lit backyard for Melinda's gardenning</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>30</x>
+      <y>420</y>
+      <w>620</w>
+      <h>210</h>
+    </coordinates>
+    <panel_attributes>_Design and Planning_
+--
+_Education:_
+- Complete online MS in AI and ML by March, 2026
+- Complete several side projects to showcase software development experience
+_Job Hunt_
+- Begin networking in winter, 2025
+- Aggressively apply for jobs starting march, 2026
+_House hunting_
+- Survey potential neighboorhoods
+- Briarsgate area
+- South-facing house
+- 4 bedroom 3 bathroom houses for rent</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>30</x>
+      <y>680</y>
+      <w>620</w>
+      <h>270</h>
+    </coordinates>
+    <panel_attributes>_Implementation_
+--
+_Education_
+- Began degree online in Winter 2024
+- Developped degree completion plan for March, 2026
+- Additional coding projects starting once per month in Winter, 2024
+_Job Hunting_
+- Update LinkedIn: 2025
+- Assemble a list of potential jobs: Summer 2025
+- Tailor skill development plan to meet most requirements: Summer 2025
+- Network on LinkedIn and other sources: Spring 2026
+- Apply for work starting Spring 2026
+_House Hunting_
+- Travel to CO to survey neighborhoods: Winter 2024
+- Create Zillow search: Winter 2024
+- Review matches consistently and update requirements monthly
+- Apply for leases: Spring 2026
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>870</x>
+      <y>70</y>
+      <w>480</w>
+      <h>280</h>
+    </coordinates>
+    <panel_attributes>_Testing_
+--
+_Education_
+- Review job postings to ensure skills plan aligns with industry trends
+- Modify the project plan to account for changing requirements
+_Job Hunting_
+- Incorporate feedback into job search plan
+_House Hunting_
+- Check new postings monthly to catch trends in variables</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>870</x>
+      <y>390</y>
+      <w>480</w>
+      <h>210</h>
+    </coordinates>
+    <panel_attributes>_Deployment_
+--
+_Job Goals_
+- Lead a small team of engineers
+- Develop cutting edge AI models that solve real-world problems
+_House Goals_
+- Home Office
+- Desirable location
+- Happy wife
+_Financial goals_
+- No debt
+_Timing goals_
+- Settled before the start of the 2026-2027 school year</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>310</x>
+      <y>0</y>
+      <w>820</w>
+      <h>1050</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>800.0;70.0;800.0;10.0;450.0;10.0;440.0;1030.0;10.0;1030.0;10.0;950.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1110</x>
+      <y>340</y>
+      <w>30</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>320</x>
+      <y>350</y>
+      <w>30</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;70.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>330</x>
+      <y>620</y>
+      <w>30</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+</diagram>
